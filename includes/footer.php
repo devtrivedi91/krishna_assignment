@@ -34,7 +34,7 @@ $year = date('Y');
                         <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" class="social-link-btn" title="LinkedIn" style="width: 34px; height: 34px; font-size: 1rem;">
                             <i class="bi bi-linkedin"></i>
                         </a>
-                        <a href="mailto:alex.rivera@example.com" class="social-link-btn" title="Email" style="width: 34px; height: 34px; font-size: 1rem;">
+                        <a href="mailto:krishna@example.com" class="social-link-btn" title="Email" style="width: 34px; height: 34px; font-size: 1rem;">
                             <i class="bi bi-envelope-at"></i>
                         </a>
                     </div>

@@ -11,7 +11,7 @@
 declare(strict_types=1);
 
 $pageTitle = 'About Me — Developer Profile';
-$metaDescription = 'Educational background, technical interests, career goals, and academic achievements of Alex Rivera, B.Tech Computer Engineering student.';
+$metaDescription = 'Educational background, technical interests, career goals, and academic achievements of Krishna, B.Tech Computer Engineering student.';
 
 require_once __DIR__ . '/includes/header.php';
 ?>
@@ -20,7 +20,7 @@ require_once __DIR__ . '/includes/header.php';
     <!-- Page Header -->
     <div class="section-header">
         <span class="section-tag"><i class="bi bi-person-badge"></i> Background &amp; Profile</span>
-        <h1 class="section-title">About <span class="gradient-text">Alex Rivera</span></h1>
+        <h1 class="section-title">About <span class="gradient-text">Krishna</span></h1>
         <p class="section-subtitle">
             An overview of my academic trajectory, engineering philosophies, technical interests, and professional milestones.
         </p>
@@ -166,9 +166,9 @@ require_once __DIR__ . '/includes/header.php';
             <!-- Profile Overview Card -->
             <div class="portfolio-card p-4 text-center mb-4">
                 <div class="hero-avatar-wrapper mb-3">
-                    <img src="<?= $baseUrl ?>/assets/images/avatar.svg" alt="Alex Rivera" class="hero-avatar" style="width: 150px; height: 150px;">
+                    <img src="<?= $baseUrl ?>/assets/images/avatar.svg" alt="Krishna" class="hero-avatar" style="width: 150px; height: 150px;">
                 </div>
-                <h2 class="h4 fw-bold mb-1">Alex Rivera</h2>
+                <h2 class="h4 fw-bold mb-1">Krishna</h2>
                 <p class="text-info small fw-semibold mb-3">B.Tech in Computer Engineering</p>
                 <p class="text-muted small mb-4">
                     Based in Bangalore, India • Passionate learner, open-source contributor, and software engineering enthusiast.

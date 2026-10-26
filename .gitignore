@@ -1,0 +1,15 @@
+# Logs & Local Output
+cloudflared.log
+*.log
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Editor & IDE configs
+.vscode/
+.idea/
+
+# Local Environment Overrides (optional)
+.env
+.env.local

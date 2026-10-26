@@ -11,7 +11,7 @@
 declare(strict_types=1);
 
 $pageTitle = 'Contact — Send a Message';
-$metaDescription = 'Contact Alex Rivera for software engineering opportunities, technical inquiries, and project collaborations. Secure PHP/MySQL message handling.';
+$metaDescription = 'Contact Krishna for software engineering opportunities, technical inquiries, and project collaborations. Secure PHP/MySQL message handling.';
 
 require_once __DIR__ . '/includes/header.php';
 
@@ -173,7 +173,7 @@ unset($_SESSION['old_contact_input']);
                         </div>
                         <div>
                             <div class="text-muted small fw-semibold text-uppercase" style="letter-spacing: 0.05em;">Direct Email</div>
-                            <a href="mailto:alex.rivera@example.com" class="text-light fw-semibold">alex.rivera@example.com</a>
+                            <a href="mailto:krishna@example.com" class="text-light fw-semibold">krishna@example.com</a>
                             <div class="text-muted small">Replies typically within 24 hours</div>
                         </div>
                     </div>

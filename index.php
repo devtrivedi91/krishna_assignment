@@ -36,7 +36,7 @@ $dbActive = isDatabaseConnected();
                 </div>
 
                 <h1 class="display-4 fw-extrabold mb-3">
-                    Hi, I'm <span class="gradient-text">Alex Rivera</span>
+                    Hi, I'm <span class="gradient-text">Krishna</span>
                 </h1>
                 
                 <h2 class="h4 text-light fw-semibold mb-3" style="color: #cbd5e1 !important;">
@@ -69,7 +69,7 @@ $dbActive = isDatabaseConnected();
                     <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" class="social-link-btn" title="LinkedIn Profile">
                         <i class="bi bi-linkedin"></i>
                     </a>
-                    <a href="mailto:alex.rivera@example.com" class="social-link-btn" title="Send Email">
+                    <a href="mailto:krishna@example.com" class="social-link-btn" title="Send Email">
                         <i class="bi bi-envelope-fill"></i>
                     </a>
                 </div>
@@ -79,7 +79,7 @@ $dbActive = isDatabaseConnected();
             <div class="col-lg-5 text-center">
                 <div class="hero-avatar-wrapper">
                     <div class="hero-avatar-glow"></div>
-                    <img src="<?= $baseUrl ?>/assets/images/avatar.svg" alt="Alex Rivera - Developer Avatar" class="hero-avatar" width="220" height="220">
+                    <img src="<?= $baseUrl ?>/assets/images/avatar.svg" alt="Krishna - Developer Avatar" class="hero-avatar" width="220" height="220">
                     <div class="hero-badge-available d-sm-none">
                         <span class="status-dot"></span> Available
                     </div>
